@@ -1,2 +1,3 @@
 gambar
-![image](https://user-images.githubusercontent.com/89823572/192321744-40171c7a-7cc8-477e-a68c-4a32289758cc.png)
+![image](https://user-images.githubusercontent.com/89823572/192322132-500a38e7-fdc7-4268-8dda-f6182847ed63.png)
+
